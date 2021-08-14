@@ -1,0 +1,60 @@
+h1{
+    padding-top: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 0.2ex;
+    font-size: 300%;
+    color: rgb(1, 3, 122);
+    background-color: aqua;
+    height: 100px;
+}
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(1, 13, 124);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: left;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  margin-bottom: 10px;
+}
+ul.topnav li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+  float: left;
+  font-size: 17px;
+  border-right: 1px solid #bbb;
+}
+
+
+
+
+.content{     
+    margin-left: 20%;
+    margin-right: 20%;
+    align-content: center;
+    font-style: italic;
+    
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(0, 0, 0);
+    border-collapse: separate;
+    border-spacing: 1em;
+}
+
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEaPWej_BxrLvBq3Jgi14BPayQqesF5R_IwQ&usqp=CAU);
+    background-size: cover;
+}
+
+.link{
+    color: red;
+}
